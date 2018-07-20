@@ -1,0 +1,22 @@
+footer {
+  font-size: 10px color:red;
+}
+
+h2 {
+  font-size: 15px;
+  color: rgb(66, 130, 135);
+  font-style: oblique;
+}
+
+label {
+  color: yellow;
+  font-size: 25px;
+}
+
+.btn {
+  background-color: yellow;
+  color:rgb(9, 10, 8);
+  padding: 0.1px;
+  border-radius: 3px;
+
+}
